@@ -1,6 +1,6 @@
 # MathiasGitSumNum.github.io
 
-Due to file size issues relating to github limitations, there are links to most necessary files below
+Due to file size issues relating to github limitations, and how migrating files to this repository complicates the programs functionality, there are links to most necessary files below
 
 Link to my Code Review:
 https://youtu.be/w-tnkFqq3z8
