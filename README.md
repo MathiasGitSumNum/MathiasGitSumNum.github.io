@@ -10,6 +10,7 @@ https://github.com/MathiasGitSumNum/AuthenticationAPI
 
 Link to the Main Project Files on git hub:
 https://github.com/MathiasGitSumNum/cs465-fullstack
+
 Old files are on the branch titled "module7"
 New version of the program are on the branch titled "NewLogandReg"
 
