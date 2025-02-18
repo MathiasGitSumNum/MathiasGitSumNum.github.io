@@ -1,4 +1,3 @@
-# Matthew Carrillo
 ## Final Eportfolio prsented for CS-499 Computer Science Capstone at SNHU
 
 ### Professional Self-Assessment
