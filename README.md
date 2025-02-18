@@ -10,9 +10,9 @@ A code review is an opening introduction to the current functionality of a proje
 
 Link to my [Code Review](https://youtu.be/w-tnkFqq3z8)
 
-## All three projects were performed on the same application, that being the Fullstack 'travlr' travel package service that I had created in CS-465
+#### All three projects were performed on the same application, that being the Fullstack 'travlr' travel package service that I had created in CS-465
 
-It should be noted that due to file size issues relating to github limitations, and how migrating files to this repository can get collectively confusing for anyone else trying to work with the files in the future, they are seperated into their own repositories and are linked in each section below:
+##### It should be noted that due to file size issues relating to github limitations, and how migrating files to this repository can get collectively confusing for anyone else trying to work with the files in the future, they are seperated into their own repositories and are linked in each section below:
 
 ### Project 1: Software Engineering and Design
 
