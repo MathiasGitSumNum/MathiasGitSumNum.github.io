@@ -34,9 +34,9 @@ The second artifact was focused on using algorithms to hash the password and ema
 
 Speaking of the database, this artifact is where the iformation for the user logging in or registering is handled, making sure that the database is able to properly return information back to the website. It also contains the trip information to be displayed to the user. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application. Here is the corresponding [narrative](CS499Milestone4Narrative.docx)
 
-<img src="Test-User-in-MongoDB-Compass.png" height=300>
+<img src="Test-User-in-MongoDB-Compass.png" height=50% width=50%>
 
-<img src="trips-Database-in-MongoDB-Compass.png" height=300 width=350>
+<img src="trips-Database-in-MongoDB-Compass.png" height=50% width=50%>
 
 Link to the [API](https://github.com/MathiasGitSumNum/AuthenticationAPI) files on Github
 
