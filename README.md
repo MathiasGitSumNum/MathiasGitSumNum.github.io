@@ -20,7 +20,7 @@ Link to my [Code Review](https://youtu.be/w-tnkFqq3z8)
 
 ### Project 1: Software Engineering and Design
 
-The first artifact was focused on transitioning the API from Javascript to Java, with the intention of simplifying and improving its functionality. It created a more organized structure for easier usability. Pictured below is what it looks like before and after the user has logged in or registered.
+The first artifact was focused on transitioning the API from Javascript to Java, with the intention of simplifying and improving its functionality. It created a more organized structure for easier usability. Pictured below is what it looks like before and after the user has logged in or registered. Here is the corresponding [narrative](CS499Milestone2Narrative.docx)
 
 <img src="Travlr-Before-Login.png" height=300>
 
@@ -28,11 +28,11 @@ The first artifact was focused on transitioning the API from Javascript to Java,
 
 ### Project 2: Algorithms and Data Structures
 
-The second artifact was focused on using algorithms to hash the password and email that the user enters for secure storage in the database when they first register. The email is hashed once and only while data is being transferred, while the password is hashed twice. Once is the same as the email using base64, while the other is a 'permanent' MD5 hash that makes so the password the user entered is not what is seen in the database. 
+The second artifact was focused on using algorithms to hash the password and email that the user enters for secure storage in the database when they first register. The email is hashed once and only while data is being transferred, while the password is hashed twice. Once is the same as the email using base64, while the other is a 'permanent' MD5 hash that makes so the password the user entered is not what is seen in the database. Here is the corresponding [narrative](CS499Milestone3Narrative.docx)
 
 ### Project 3: Databases
 
-Speaking of the database, this artifact was where the returning user logging in is handled, making sure that the database is able to properly return information back to the website. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application.
+Speaking of the database, this artifact was where the returning user logging in is handled, making sure that the database is able to properly return information back to the website. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application. Here is the corresponding [narrative](CS499Milestone4Narrative.docx)
 
 <img src="Test-User-in-MongoDB-Compass.png" height=300>
 
