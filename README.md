@@ -32,9 +32,11 @@ The second artifact was focused on using algorithms to hash the password and ema
 
 ### Project 3: Databases
 
-Speaking of the database, this artifact was where the returning user logging in is handled, making sure that the database is able to properly return information back to the website. Pictured below is what the user information looks like with help from the MongoDB Compass application.
+Speaking of the database, this artifact was where the returning user logging in is handled, making sure that the database is able to properly return information back to the website. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application.
 
 <img src="Test-User-in-MongoDB-Compass.png" height=300>
+
+<img src="trips-Database-in-MongoDB-Compass.png" height=300>
 
 Link to the [API](https://github.com/MathiasGitSumNum/AuthenticationAPI) files on Github
 
