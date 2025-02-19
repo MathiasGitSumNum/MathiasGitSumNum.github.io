@@ -36,7 +36,7 @@ Speaking of the database, this artifact is where the iformation for the user log
 
 <img src="Test-User-in-MongoDB-Compass.png" height=300>
 
-<img src="trips-Database-in-MongoDB-Compass.png" height=300>
+<img src="trips-Database-in-MongoDB-Compass.png" height=300 width=350>
 
 Link to the [API](https://github.com/MathiasGitSumNum/AuthenticationAPI) files on Github
 
