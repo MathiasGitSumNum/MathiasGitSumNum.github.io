@@ -28,11 +28,11 @@ The first artifact was focused on transitioning the API from Javascript to Java,
 
 ### Project 2: Algorithms and Data Structures
 
-The second artifact was focused on using algorithms to hash the password and email that the user enters for secure storage in the database when they first register. The email is hashed once and only while data is being transferred, while the password is hashed twice. Once is the same as the email using base64, while the other is a 'permanent' MD5 hash that makes so the password the user entered is not what is seen in the database. Here is the corresponding [narrative](CS499Milestone3Narrative.docx)
+The second artifact was focused on using algorithms to hash the password and email that the user enters for secure storage in the database when they first register and each time they login. The email is encoded once while data is being transferred and decoded, while the password is encrypted and then encoded. it is encoded the same as the email using base64, while the encryption is a permanent MD5 hash that allows the password the user entered to been inserted into the database but not be legible. Here is the corresponding [narrative](CS499Milestone3Narrative.docx)
 
 ### Project 3: Databases
 
-Speaking of the database, this artifact was where the returning user logging in is handled, making sure that the database is able to properly return information back to the website. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application. Here is the corresponding [narrative](CS499Milestone4Narrative.docx)
+Speaking of the database, this artifact is where the iformation for the user logging in or registering is handled, making sure that the database is able to properly return information back to the website. It also contains the trip information to be displayed to the user. Pictured below is what the user and trips information looks like with help from the MongoDB Compass application. Here is the corresponding [narrative](CS499Milestone4Narrative.docx)
 
 <img src="Test-User-in-MongoDB-Compass.png" height=300>
 
